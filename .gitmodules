@@ -1,0 +1,3 @@
+[submodule "cowlib"]
+	path = cowlib
+	url = ./deps/cowlib/
